@@ -1,4 +1,4 @@
-# react-starter
+# React Starter Project
 
 ## Get Started
 - npm install
